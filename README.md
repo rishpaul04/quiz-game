@@ -19,4 +19,4 @@ An interactive browser-based quiz platform that tests user knowledge with real-t
 
 Frontend: HTML5, CSS3, JavaScript (Vanilla JS)
 
-No frameworks used – lightweight and browser-friendly**
+No frameworks used – lightweight and browser-friendly
