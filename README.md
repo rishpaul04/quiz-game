@@ -1,5 +1,5 @@
 # quiz-game
-**📝 Web-Based Quiz Application
+📝 Web-Based Quiz Application
 
 An interactive browser-based quiz platform that tests user knowledge with real-time scoring, feedback, and timed questions. Built using HTML, CSS, and JavaScript.
 
